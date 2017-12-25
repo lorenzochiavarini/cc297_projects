@@ -1,0 +1,1 @@
+This project consists in implementing different computational grid generation techniques - from algebraic mesh generation to partial differential equation solvers. The main goal is to generate a conformed structured mesh over a bi-convex airfoil and later over a NACA0012 without AoA.
